@@ -24,6 +24,6 @@ export class AppComponent {
       imageUrl : 'assets/biking.jpeg',
       username: 'biking1222',
       content: 'I did some biking today'
-    },
+    }
   ];
 }
